@@ -1,4 +1,4 @@
-# DVS-HPE-Light
+# Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment
 
 - This repository is the official implementation of paper *[Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment](https://www.sciencedirect.com/science/article/pii/S0925231223005118)* in *Neurocomputing, 547, 2023.*
 - [Here](http://bit.ly/yelan-research) is the introduction video of the project and datasets we collected/generated. 
