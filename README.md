@@ -2,7 +2,7 @@
 
 - This repository is the official implementation of paper *[Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment](https://www.sciencedirect.com/science/article/pii/S0925231223005118)* in *Neurocomputing, 547, 2023.*
 - [Here](http://bit.ly/yelan-research) is the introduction video of the project and datasets we collected/generated. 
-- The dataset will be released [here](https://dataplanet.ucsd.edu/dataverse/yelan/). (Currently we encountered some issue regarding publishing the dataset on the server end, hopefully this issue will get resolved soon.)
+- The dataset is released [here](https://dataplanet.ucsd.edu/dataverse/yelan/).
 
 It is built with pytorch-lightning and miracleyoo's pl [template](https://github.com/miracleyoo/pytorch-lightning-template), with the basic toolsets borrowed from [lifting_events_to_3d_hpe](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe). 
 
